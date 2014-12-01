@@ -1,0 +1,5 @@
+1350604800
+1.0
+review/summary: broke after 4 monthsreview/text: Machine locks up with error message that indicates there is tangled thread but there is no thread that I can find to clean out. It's under warranty but the closest authorized repair shop is more than an hour away from where I live.
+
+

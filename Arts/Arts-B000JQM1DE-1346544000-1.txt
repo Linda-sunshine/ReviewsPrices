@@ -1,0 +1,5 @@
+1346544000
+3.0
+review/summary: self threadingreview/text: I like it, but I couldn't get it to self thread. There seems to be no hook as described. Threading the machine should be easier; you have to put the thread through an eye that is hard to get to. It is still new to me.
+
+
