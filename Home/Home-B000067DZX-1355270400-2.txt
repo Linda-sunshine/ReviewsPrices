@@ -1,0 +1,5 @@
+1355270400
+5.0
+review/summary: Do some quick math and save some moneyreview/text: Sometimes, the three-packs cost less per filter than the four-packs. Do some quick math -- divide the number of filters by the cost of the item, and you'll get the cost per filter. In my case, it was about 20% less per filter to buy the three-pack.
+
+

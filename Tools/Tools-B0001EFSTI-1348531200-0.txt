@@ -1,0 +1,5 @@
+1348531200
+4.0
+review/summary: Why doesn't this tool have a ruler?review/text: Would etching inch marks on one of the prongs make too much sense? They included every other useful function except the ruler function, which would be the easiest for this tool IMO.
+
+

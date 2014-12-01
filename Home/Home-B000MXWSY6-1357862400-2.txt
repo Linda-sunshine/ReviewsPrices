@@ -1,0 +1,5 @@
+1357862400
+2.0
+review/summary: Buzzing at nightreview/text: The alarm clock emits a buzzing noise at all times as if radio was on. Depending on your tolerance level the noise might be annoying.
+
+

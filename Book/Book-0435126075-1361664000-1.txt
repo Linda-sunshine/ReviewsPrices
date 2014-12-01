@@ -1,0 +1,5 @@
+1361664000
+5.0
+review/summary: A gem revisitedreview/text: If you have not read this since high school, you may find yourself quite delighted, as I did myself .
+
+

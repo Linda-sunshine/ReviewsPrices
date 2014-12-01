@@ -1,0 +1,5 @@
+1344124800
+5.0
+review/summary: Works great, easy to use, you'll learn a lot about your electricity usage!review/text: This electricity usage monitor is well worth the money. I was able to easily figure out how much the TV uses, computer, printer and all sorts of other gadgets in our house (including if there are "energy vampires" of items drawing electricity even when turned off). It can display how many Watts the device is drawing at that moment, or kilowatt hours so that you can still measure usage of items like the refrigerator that use electricity sporadically rather than steady and all at once. I'm not sure about all the other buttons, but those two features alone make this well worth the money. I would recommend (as others have done) buying a small foot-long extension cord or something to give you some flexibility of where you plug it in.
+
+

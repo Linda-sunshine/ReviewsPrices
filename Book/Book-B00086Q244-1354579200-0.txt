@@ -1,0 +1,5 @@
+1354579200
+2.0
+review/summary: Nice read, but poor quality in Kindle versionreview/text: This book was subtly recommended to me by somebody in a management position. I bought the kindle version 4 or 5 days ago, and I am just under halfway through for my first time. As Dale, and other reviewers, suggested I plan to read it a few times.Along with disabling the Text-to-Speech feature, it seems like they locked down the ability to change the look of the text. I own a Kindle Fire HD, and usually put my font-size at 3 or 4. To get the font to enlarge to a size I can easily read, I had to double my usual size, the font-size setting is currently at 7. The font-type option also doesn't change. So if you need larger font-size or a particular font to read, you will have difficulties.
+
+

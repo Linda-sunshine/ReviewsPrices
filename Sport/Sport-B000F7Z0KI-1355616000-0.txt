@@ -1,0 +1,5 @@
+1355616000
+2.0
+review/summary: Leak after washed in the dishwasherreview/text: The water bottle is suppose to be able to be washed in the dishwasher, but after the first wash is began leaking regularly.
+
+

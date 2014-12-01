@@ -1,0 +1,5 @@
+1352764800
+4.0
+review/summary: Works great, a few more refinements would make it perfectreview/text: It does everything you'd expect and does it well. However, I would change a few things, like: variable brightness for the backlighting - it's at full brightness all the time; the only option is whether it stays on permanently or times out to no backlighting at all. More volume options for weather alerts; I have it on the lowest setting and it still startles me awake; right, I know it's supposed to make sure I wake up, but it practically gives me a heart attack. The display is large enough, but for some reason they chose to cram the time of day into about a 1&#34; square in the lower right corner; again, I get the fact this is a weather radio and the alerts are appropriately large; but, isn't there some way to make the display adapt to what the task at hand?; after all, your trying figure out what time it is way more often than looking at the alert status. Make those changes, and I could use it all by itself and get rid of the alarm clock _with a bigger, variable brightness display_ that sits right next to it.
+
+

@@ -1,0 +1,5 @@
+1357862400
+4.0
+review/summary: worksreview/text: Seems to work. Wish we could get some digital output to a computer, some actual data-logging -- guess that's what the future is for.
+
+

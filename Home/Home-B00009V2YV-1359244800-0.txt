@@ -1,0 +1,5 @@
+1359244800
+4.0
+review/summary: good unitreview/text: Seems to work well, as we've had several advisories for storms and ice. Setup is not very intuitive, but if you follow the instruction book EXACTLY you can do almost everything you want to do. I haven't figured out why the yellow light goes on and off and can't be turned off, but the warnings are the main purpose and we do get them.
+
+

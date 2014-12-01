@@ -1,0 +1,5 @@
+1355875200
+2.0
+review/summary: 12 months and the pump goes out almost to the date of purchasereview/text: My machine was bought last year as a christmas present, over the last month it has been acting up, well yesterday it just stopped pulling water. I followed the web site instructions for a full cleaning, and it still did not pull water. I performed regular descaling about every two to three months and cleaned the needles/screens every few weeks. I'm an old electronic tech so this morning I pulled out my tools and a multi and discovered the pump was receiving dc voltage but it was not turning when triggered. Anyhow, very disappointing that this thing breaks a year after purchase. I'm going to look at the cuisineart for my next machine, it has reported less issues with the system.
+
+

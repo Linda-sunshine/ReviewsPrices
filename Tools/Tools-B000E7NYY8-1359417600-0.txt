@@ -1,0 +1,5 @@
+1359417600
+5.0
+review/summary: well designed digital thermostatreview/text: I purchased it to control my little heater in the bedroom. The mechanical thermostat on the heater can not control the right temperature during night time, the temperature varies from 70 to 77 degrees. With this add-on digital unit, I was able to control the room temperature to 72 degrees constantly. The unit operates very quiet during ON state. If the heater power cable only has 2 plugs, then we need to buy a 3 plugs extension cord between the heater and the unit. Otherwise, the unit will not operate. I think it looks for the GND plug for safety purpose.
+
+

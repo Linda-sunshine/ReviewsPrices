@@ -1,0 +1,5 @@
+1358812800
+1.0
+review/summary: Poor designreview/text: The unit was returned because it was susceptible to radio frequency interference. It would go blank at street lights and interference from a car.
+
+

@@ -1,0 +1,5 @@
+1357084800
+3.0
+review/summary: Not for use in cold climate?review/text: Other reviews have noted odd behavior where a user can enter the unlock code correctly, the lock makes all the right blinks and clicks, but the lock handle fails to engage and open the lock. I got that behavior recently. In my case, it happens when the lock, which is on an unheated garage, gets cold. The lock seems to fail whenever it's less than 10 F outside. Around here, that is pretty much every night all winter long. Daytime temps are still below freezing, but the lock works if it's above 10 F.A lock that leaves you outside in the rain or bitter cold is not a product I'd purchase again, nor would I recommend it.I'm back to carrying the keys, because I can't trust this thing to be there when I need it.
+
+

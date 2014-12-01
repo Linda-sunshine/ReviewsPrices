@@ -1,0 +1,5 @@
+1356480000
+5.0
+review/summary: Problem solverreview/text: Solved several cord problems that could have been safety items. Great when you have several units that have voltage drop transformers for plug ins
+
+

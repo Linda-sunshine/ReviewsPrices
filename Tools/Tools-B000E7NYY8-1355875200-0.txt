@@ -1,0 +1,5 @@
+1355875200
+4.0
+review/summary: Nice gadgetreview/text: Having a thermostat control for the swamp cooler is great. My only complaint is there's not a very wide temperature pause period. I know that's not the technical term, but basically it will reach the cool set temperature, and then switch off, and within a minute it's turning back on because it's went down 1 degree. So when it's reached the set temperature it's constantly turning on and off, but still worth it to me for drastic differences for when I'm home or away.
+
+

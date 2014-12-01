@@ -1,0 +1,5 @@
+1343865600
+4.0
+review/summary: Card shufflerreview/text: Great for games that use more than 2 decks of cards. Shuffling more than 4 decks of cards by hand is a real hassle. We used for Hand and Foot.
+
+

@@ -1,0 +1,5 @@
+1356048000
+3.0
+review/summary: Randomly displays 92-122 PPM but alarm doesn't sound.review/text: CO should be displayed without needing to press a button. We found after a week of use that this would display 92-122PPM with no alarm. The next day might display 0. Pushing the test button gets the alarm firing. If the unit is not defective we believe it has something to do with an attached garage. This thing is plugged in about 6 feet away from the garage entry door. Its possible that after the car is started and we get done closing all the doors that some drifts in and the alarm sounds for awhile. We might not be home to hear it. That is my only thought on the topic.
+
+

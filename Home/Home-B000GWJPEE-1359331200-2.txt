@@ -1,0 +1,5 @@
+1359331200
+2.0
+review/summary: Works well. Until it breaksreview/text: I bought this from Target about a year ago. It worked well and pumped out lots of cool mist. However, my unit failed in a very bad way. The ultrasonic element overheated and detached from the base of the humidifier causing the contents of the tank to flow through the device(and the powered fan) on to my table and on to the floor.I suspect this device has a design flaw in the empty tank detector. It always shut off the fan correctly but I bet it never shut off the ultrasonic element.
+
+

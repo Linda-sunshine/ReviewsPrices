@@ -1,0 +1,5 @@
+1348790400
+4.0
+review/summary: Very consistent, not very precisereview/text: Looks good, works well, but my only complaint is that it changes in increments of .2 lbs, while I was expecting twice the precision, to .1 lbs.
+
+

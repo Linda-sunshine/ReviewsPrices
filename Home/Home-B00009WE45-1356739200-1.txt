@@ -1,0 +1,5 @@
+1356739200
+3.0
+review/summary: Calibration doesn't workreview/text: I tried to calibrate this (instructions are included), but when I turned the dial, nothing happened. It's not super fast at getting to temperature, either. Overall, I'd say it's average.
+
+

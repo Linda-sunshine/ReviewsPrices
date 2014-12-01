@@ -1,0 +1,5 @@
+1358640000
+4.0
+review/summary: What's my Watt?review/text: This product is great for figuring out how much power my plug-ins consume, on and off.You'd be surpised how many items have standby power usage when &#34;off&#34;.Its a great audit tool for getting the Kw/Hr usage too.It has saved its own price on my power bill, every month since!
+
+

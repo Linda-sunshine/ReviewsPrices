@@ -1,0 +1,5 @@
+1346803200
+5.0
+review/summary: Awesome trays, easy to extract, large cubes, but physics = watered down drinksreview/text: These are great, made of good quality silicone and produce very nice looking ice cubes. People getting a smell or taste are doing it wrong; silicone is odour/tasteless.The only "downside" is that large cubes are promoted as reducing the watering down of drinks. This is simply not the case. Warming up ice by 1C requires 1/150th of the energy to melt the same amount of ice. If you want to reduce ice melt, your cubes would have to be insanely larger and colder. If you want to avoid watering down, get some whiskey stones, though they cannot provide the same amount of cold as they have half the heat capacity of ice.(For every degree below freezing, ice holds 2.108 kJ/KG of 'cold'. However, the energy to *melt* ice is 334 kJ/KG)
+
+

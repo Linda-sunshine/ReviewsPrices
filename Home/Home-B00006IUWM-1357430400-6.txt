@@ -1,0 +1,5 @@
+1357430400
+2.0
+review/summary: Wrong Voltagereview/text: This appliance looks OK but the operating voltage is 120 volts AC which is no good for the UK where we have an operating voltage of 240 AC. There was no indication of the operating voltage in the advert so I wrongly assumed it to be UK compatible.
+
+

@@ -1,0 +1,5 @@
+1354579200
+1.0
+review/summary: DANGEROUS! Fails to detect smokereview/text: Due to a kitchen mistake, the room this was in filled with smoke. Smoke detector never went off. Figuring it must be out of batteries or something, I hit the test button. It speaks its warnings indicating that it is operating just fine, so it thinks. I even held a smoldering piece of paper right under it. No smoke alarm.Dangerous. Do not buy.
+
+

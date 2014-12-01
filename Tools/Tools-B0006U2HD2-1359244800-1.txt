@@ -1,0 +1,5 @@
+1359244800
+4.0
+review/summary: Works, but could be betterreview/text: As many have mentioned, the temperatures of operation are not exact and may vary over time. My unit was the on at 35 off at 45 model. Mine turned on around 30F and wouldn't turn off until above 50F. For keeping ice at bay on a roof or in a pipe this would probably work fine, but I needed more control for a different application, so I bought a digital unit.
+
+

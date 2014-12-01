@@ -1,0 +1,5 @@
+1348876800
+1.0
+review/summary: works poorlyreview/text: The shuffler flips cards over several times during one shuffle so that we have several cards rightside up when we draw. This is disconcerting when playing. It also jams often and we have to stop and unjam it before we can finish shuffling. The only good things I can say about this shuffler is that it does handle four decks with ease and its easier to deal with these problems than to shuffle four decks by hand.
+
+

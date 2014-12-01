@@ -1,0 +1,5 @@
+1356739200
+4.0
+review/summary: Nice scalereview/text: This scale seems to be accurate. The only issue I have with it is that you need to stay pretty still for it to get a good reading. If you're not still, it just seems to freak out a little bit and won't give you a reading. Then, you need to step off and let it reset and then step back on. Just a minor issue but something to be aware of.
+
+

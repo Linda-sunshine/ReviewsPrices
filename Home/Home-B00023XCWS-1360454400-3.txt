@@ -1,0 +1,5 @@
+1360454400
+2.0
+review/summary: Broke after 45 daysreview/text: It worked fine, and then it just stopped working after about 45 days. It no longer turns on, so I'm returning it.
+
+

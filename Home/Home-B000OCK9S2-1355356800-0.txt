@@ -1,0 +1,5 @@
+1355356800
+1.0
+review/summary: Makes crackling sound when using sound therapy optionreview/text: Makes crackling sound when using sound therapy option. We bought this for sound therapy option and when it is playing sounds it makes loud crackling noises, interrupting sleep!
+
+

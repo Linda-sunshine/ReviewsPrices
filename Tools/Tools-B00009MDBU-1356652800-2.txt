@@ -1,0 +1,5 @@
+1356652800
+5.0
+review/summary: Watt hour meterreview/text: This is probably the least expensive device of it's kind - an excellent value.The quality seems OK, provided that you don't plan to run over it with a truck.It displays voltage, current, volt-amps, watts, frequency, power factor and watt-hours.It does not calculate power cost, CO2 emissions or other nonsense.For finding out how much power is used during a period of time, it is entirely adequate.
+
+

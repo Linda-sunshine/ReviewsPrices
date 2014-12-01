@@ -1,0 +1,5 @@
+1350345600
+5.0
+review/summary: Seems to have been improvedreview/text: Water flow is now more than 1 1/2 oz/second through this thing; older ones had much slower flow. It does get itself filled up after the expected number of gallons have been filtered, so I assume it is still filtering as well as ever.
+
+

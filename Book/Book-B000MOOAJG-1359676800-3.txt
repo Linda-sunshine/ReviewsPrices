@@ -1,0 +1,5 @@
+1359676800
+1.0
+review/summary: Verbose, Badreview/text: The author makes many false comparisons where one obviously true facet is supposed to prove the rest of an argument is also true -- this is incorrect, if best misleading. Not to mention the extreme verbosity - get to the point already.
+
+

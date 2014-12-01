@@ -1,0 +1,5 @@
+1354579200
+4.0
+review/summary: Nice low-profile design, but small 6P6C RJ45 ethernet jacks will not fit most network cablesreview/text: I like the Belkin surge protectors and own a different model. I ordered this one thinking it would be able to provide protection for my new TV with its standard-size 8P8C ethernet jacks, but this unit only has connections for the smaller, telephone-jack size 6P6C type connections, which almost nobody uses for networking...so don't expect it to fit your standard ethernet cables.
+
+

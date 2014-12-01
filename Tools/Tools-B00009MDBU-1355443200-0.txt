@@ -1,0 +1,5 @@
+1355443200
+5.0
+review/summary: Good tool to havereview/text: Excellent device to record energy use. I just bought a 4th one (in 2012) after previous good experience. If you are curious to track your energy use, buy this. If you want to measure voltage, current, frequency, get a digital multimeter.The negative of this one is that it needs power to operate. Lose electricity and the reading is gone.There is an alternate model available which uses a battery. In principle, it looks like a better choice, but it may not be. This one, the one without a battery, seems to tolerate much higher current overload than the battery operated one does. The battery operated, when overloaded, will lose its reading. The reviewed one, when overloaded (a microwave did it in my case), will beep, but still keeps the reading.
+
+

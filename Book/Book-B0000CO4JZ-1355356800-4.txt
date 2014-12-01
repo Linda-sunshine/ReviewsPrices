@@ -1,0 +1,5 @@
+1355356800
+1.0
+review/summary: Beware. This is a miniature versionreview/text: While it states in very small print at the very end of the description the measurements in mm, many people either don't take the time to interpret it into inches or don't even see it. The book is a miniature version.
+
+

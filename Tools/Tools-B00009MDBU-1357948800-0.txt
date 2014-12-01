@@ -1,0 +1,5 @@
+1357948800
+3.0
+review/summary: Works great, but melted itselfreview/text: This is not one of those super-user-friendly meters that will show you how many trees you've saved or how much nicer a retirement home you can live in if you turn off the appliance you have plugged into it. It gives you volts, amps, watts, volt-amps, Hz, power factor, and cumulative kWh (but doesn't save it when you unplug it). If you want to know how much something costs you, get your power bill and a calculator, or buy something fancier.That said, it worked great for me. I had my entire bedroom of stuff plugged into it, which was then plugged into a wall outlet, which was on a 15A circuit. It gave me a good idea of how much power I was using.One day, though, everything turned off. I started poking at things, and discovered that the plastic by the outlet had melted and deformed enough that the plug no longer stayed in contact with the contacts in the Kill-A-Watt. I would guess the culprit was my air conditioner, which pulls a good fraction of the 15A rating for good stretches of time.
+
+

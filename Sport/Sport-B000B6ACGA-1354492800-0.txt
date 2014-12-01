@@ -1,0 +1,5 @@
+1354492800
+1.0
+review/summary: Doesn't shuffle.review/text: I don't understand how this thing could have gotten the positive reviews it did. It quite simply does not shuffle cards; what it does do is take cards from two different piles, and intersperse them together. This is very, very far from random - for example, cards that start on top of the two piles are guaranteed to be on top of the resulting "shuffled" pile, and vice versa for those on the bottom. This quite simply is not a card shuffler, despite the name. Do not buy this if you actually want your cards shuffled, because it does not do that - all it does is very slightly rearrange the cards.
+
+

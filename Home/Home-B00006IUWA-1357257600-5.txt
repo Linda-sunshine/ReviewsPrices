@@ -1,0 +1,5 @@
+1357257600
+3.0
+review/summary: sometimes loses powerreview/text: Sometimes it loses power. When it has full power it works great and pops almost all the kernels. We've only had it a couple weeks; used it a half dozen times.
+
+

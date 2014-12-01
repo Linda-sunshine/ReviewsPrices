@@ -1,0 +1,5 @@
+1345680000
+4.0
+review/summary: Solid, attractive, only four-digit code to enterreview/text: Very solid construction and nice finish. The only thing keeping it from 5-stars is the limit of 4-digit codes. I'd prefer a 5- or 6-digit code to enter, but that might be me being over-protective. (Mathematically speaking, if up to 19 different 4-digit entry codes can be programmed, and there are 10,000 combinations, then someone would only have to try 526 to succeed. There's no alarm when someone has tried to brute force it with too many errant attempts; the only consequence after entering four wrong codes is having to wait 30 seconds. At four attempts every 40 seconds, that's theoretically barely 100 minutes of work to hit a match. Add a 5th or 6th digit, and the time to crack a code goes up exponentially.) Bottom line, as long as a 4-digit code is enough for you, then this is a great choice.
+
+

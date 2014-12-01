@@ -1,0 +1,5 @@
+1343865600
+1.0
+review/summary: FAILreview/text: I bought this product in March, and it worked just fine. Now as of June the watch part seemed to work, but the band didn't appear to be sending a heart-rate signal to the watch. I replaced the battery but it still won't work.
+
+

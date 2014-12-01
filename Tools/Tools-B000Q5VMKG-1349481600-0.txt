@@ -1,0 +1,5 @@
+1349481600
+5.0
+review/summary: put a battery in and plugged it in the wallreview/text: I'm happy with this so far, it looks okay on the wall and I like that I can check the PPM of carbon monoxide in the air. Hopefully we will never have a gas leak to test this out on, but I sleep better knowing that this will alert me if anything is out of the norm.
+
+

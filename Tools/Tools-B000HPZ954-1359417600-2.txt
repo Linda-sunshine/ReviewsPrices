@@ -1,0 +1,5 @@
+1359417600
+4.0
+review/summary: Solid Belkin product.review/text: It seems PC's will never come with everything they need. External items all have their own DC power source. I wish someone would figure out a proper layout for these surge protectors. External DC products come in several configurations and I am never able to use all the plug-ins on these surge protectors. It was also difficult to figure out the connections for the network protector.
+
+

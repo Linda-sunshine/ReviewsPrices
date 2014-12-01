@@ -1,0 +1,5 @@
+1358726400
+4.0
+review/summary: 4.5 stars. Great unit at a reasonable pricereview/text: Works as advertised. Only problem I have had is that sometimes it never goes out of solid red after connecting to the motorcycle, and if I unplug it for a few hours, and then plug it back in, it seems to then go through the correct cycle, ending in green. This could be the fault of the battery, but I can't know, so I am giving it a 4.5 stars (rounded down from 5 to 4 in this case). I also wish the cord were a few feet longer and they used multiple LED's to show status.
+
+

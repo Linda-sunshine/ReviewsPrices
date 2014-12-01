@@ -1,0 +1,5 @@
+1345075200
+1.0
+review/summary: poor qualityreview/text: these do not load well at all. they bind up and the slide gets stuck. they arent accurately sized, they seem too big in diameter.
+
+

@@ -1,0 +1,5 @@
+1345766400
+4.0
+review/summary: Didn't Break on 230/240 vreview/text: I use regular 110v plugs (with 230v running through them) to hook up my computer systems, to save the hassle of buying new plugs for each one. I accidentally plugged it into one of those plugs and have used it a dozen times since without it breaking. As always ymmv but just thought I would let people know in case they were curious, as it is only rated for 110v
+
+

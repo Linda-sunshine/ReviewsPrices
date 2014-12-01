@@ -1,0 +1,5 @@
+1343865600
+5.0
+review/summary: Argument with the wife, settledreview/text: I had gotten so sick of trying to convince people that if an appliance is warm it is drawing power. One of the worst offenders is the cable box which is hot even when it is turned "off" and not recording anything. The only way to stop it's power draw is to turn off the power strip it is plugged into.Now, with this device I can show exactly how much power something at 'idle' is drawing and then just multiply that by the cost per kilowatt hour to come up with a price per year just to have the darn thing plugged in.Suddenly turning off the power strip while we're out at work doesn't seem so crazy to everyone anymore. Priceless.
+
+

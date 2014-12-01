@@ -1,0 +1,5 @@
+1357344000
+3.0
+review/summary: not for interconnected detectorsreview/text: i have a 6 zone interconnected system that runs on ac and uses the battery in smoke detector as backup, meaning it runs on ac current and if the ie: garage zone goes off it will trip all detectors to alarm mode. i typed in the model# off old detector and this one came up so without examining specs carefully i ordered this one, however this one will not work in a interconnected system it is a stand alone smoke detector. use the model that has IB listed after model # if you have interconnected system.
+
+

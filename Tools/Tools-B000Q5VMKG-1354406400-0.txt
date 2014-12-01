@@ -1,0 +1,5 @@
+1354406400
+2.0
+review/summary: Digital display misleadingreview/text: I purchased this particular alarm because it appeared that with the digital display it would give readings of actual carbon monoxide levels. The product information supplied is very unclear about how the display functions, but it does indicate that the device is not meant to measure CO amounts at or below 30 ppm. It is not clear what minimum level of CO it can detect except that it should alarm at 70 ppm if it is exposed for somewhere between 60 and 240 minutes. You can push a button to have it show the maximum amount of CO detected in the current preset 24 hour period (though it is unclear when the 24 hour periods begin and end). Mine has never displayed more than 0 when I tested for that, which I guess means it hasn't reached the minimum detectable amount (not that there has been no CO present). Whether that minimum is 70 ppm, I am not sure. Although it is a plug-in alarm, it must have the batteries inserted or it will beep incessantly. That seems a prudent safety precaution, but somehow I didn't expect it. Happily, batteries are supplied.
+
+

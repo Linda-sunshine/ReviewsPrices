@@ -1,0 +1,5 @@
+1359590400
+5.0
+review/summary: Omron HJ Pedometerreview/text: The Pedometer is accurate and resets itself every 24 hour cycle. Easy to enter stride length andf other modes as desired.
+
+

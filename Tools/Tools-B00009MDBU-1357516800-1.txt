@@ -1,0 +1,5 @@
+1357516800
+5.0
+review/summary: The Observer Effectreview/text: This product does the one thing it advertises, measure an appliance's power consumption, and it does it well. Based on a cursory test with my voltmeter, it's accurate to my amateurish ability to measure such things.I have one minor complaint about the design of the product. The plug on the back of it, the one that plugs into an outlet, is so oriented that you must unplug both plugs from the outlet into which you are plugging this in.
+
+

@@ -1,0 +1,5 @@
+1354579200
+2.0
+review/summary: Out of the box, the back up battery does not workreview/text: The back up battery does not work, neither the one that came with the clock nor a new one. Also, setting/resetting the time is every time the power flicks is counter intuitive - you need the instructions.
+
+

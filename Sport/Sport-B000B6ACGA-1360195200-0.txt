@@ -1,0 +1,5 @@
+1360195200
+4.0
+review/summary: Not very consistentreview/text: This shuffler works but sometimes shuffles lopsided. I tried it with various cards and sometimes a few cards will be spit out from one half together. Overall it works okay, but it would be nice if it was more consistent.
+
+

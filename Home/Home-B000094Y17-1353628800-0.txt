@@ -1,0 +1,5 @@
+1353628800
+5.0
+review/summary: Great for filtering water. LED indicator might not be 100% accurate.review/text: WHAT I LIKE:- Large volume, means I get more cups per refill at the sink.- The indicator is a great reminder as to when to change my filter.- The square-ish profile helps with storage in my fridge.- The top cap fits snuggly enough that it doesn't fall off when I pour my water.WHAT I DISLIKE:- Be careful not to overfill with water all the way to the brim. Otherwise, water will leak out of top part of the handle.- I have no idea how the indicator calculates when to start flashing orange or red. Because the filter flashes every time it senses the filter being tipped forward (as if pouring), I assume it's based off of a simple integer counter. However, I feel that shaking the container during transportation could artificially increase the counter, thus making the filter change indicator inaccurate.
+
+

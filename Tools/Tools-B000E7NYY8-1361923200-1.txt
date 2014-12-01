@@ -1,0 +1,5 @@
+1361923200
+4.0
+review/summary: How the Swing feature worksreview/text: This is a good product, and there aren't many like it out there, surprisingly. We are using it for a server closet in our home office, to regulate the a/c temperature. Lux's customer service is great, they explained the swing parameters, which ranges between 1-9:The Swing setting of #1 = plus/minus 0.25F degrees above and below the target set temperature, and a Swing setting of #9 = plus/minus 2.25F degrees above and below the target set temperature.Since we want to cool machines and not humans, we need a swing of 10 or more degrees so the a/c isn't turning on all the time. The tech supervisor recommended that we try insulating the temperature probe with electrical tape or latex, to try and slow down its reading. We'll see if that does the trick.
+
+

@@ -1,0 +1,5 @@
+1344038400
+5.0
+review/summary: Really helped me realize how much energy I was usingreview/text: I run my computer for about 16 hours ever day, which is about 144 kWh per month (average 300W draw). In my area, that's around $10 per month just to run a computer.
+
+

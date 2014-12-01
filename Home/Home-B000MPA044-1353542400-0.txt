@@ -1,0 +1,5 @@
+1353542400
+1.0
+review/summary: Worst cooker everreview/text: The cooker can't enter high pressure mode because it leaks. It stopped working after 6 months. I already throw away the packaging and it's so difficult to find proper packages to send it back. I opened the cooker to check the circuit. The cooker is extremely cheap made. The wires are all extremely thin. They use the same wires for button and heater. I can't believe such wire can sustain 10A current. The 12V transformer is dead. I can order another transformer or provide 12V from outside but considering the overall experience, I would rather throw it away to trash where it should belong. A 10$ cooker will work much better than this.
+
+

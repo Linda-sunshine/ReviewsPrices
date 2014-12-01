@@ -1,0 +1,5 @@
+1358899200
+2.0
+review/summary: I can't depend on itreview/text: Seems to be overly sensitive to overload, or may be sensing its own heat, anyway it was not dependable on both on and off cycle.
+
+

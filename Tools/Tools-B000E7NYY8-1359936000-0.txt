@@ -1,0 +1,5 @@
+1359936000
+3.0
+review/summary: Great Idea, Butreview/text: it seems they've changed the product so that the instructions now require the heater to have a three-pronged grounded plug in order for it to work. Purchased this for a Soleus Mica Panel heater, but it will only work if used with an extension cord, which gets very warm. Others seem to have had luck plugging the heater in directly, but this is not the case for me.Not sure about the safety of using this with an extension cord or power strip rated for 1500 watts, even though the specs should be able to handle the heater load.
+
+

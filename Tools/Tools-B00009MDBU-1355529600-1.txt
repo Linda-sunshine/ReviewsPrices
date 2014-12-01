@@ -1,0 +1,5 @@
+1355529600
+4.0
+review/summary: nice toolreview/text: nice gadget if you are concern with your power consumptions or just curious how much your appliances consume power. Just check the power rating to avoid mismatch. I used it on our LCD TV. Im amazed that LCD TV consumption depends greatly on the backlight settings, not on the brightness or color settings. I was able to determine that our 42in TV consume 60W to approx 140W depending on the backlight adjustment when in use.I should have bought a higher rating monitor so i can check bigger ratings appliances like portable heaters, induction cookers, etc.
+
+

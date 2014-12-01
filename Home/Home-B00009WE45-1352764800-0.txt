@@ -1,0 +1,5 @@
+1352764800
+2.0
+review/summary: digital thermometerreview/text: I was very unhappy with the product performance. It takes longer than the time indicated in the user information to reach a stable temperature. The readout is very difficult to see as the characters are quite small and the contrast is not great. It was difficult to see whether the readout was f or c. The only redeeming feature is the battery saver which turns it off after a few minutes.
+
+

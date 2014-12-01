@@ -1,0 +1,5 @@
+1355616000
+4.0
+review/summary: So far so goodreview/text: I received this item a few days ago. The manual says it does not charge any battery less than 3 volts. My car has been sitting in the driveway unmoved for more than 6 months now and when I metered the battery it read 0.9V. I jumpstarted the battery, and let it run for a little bit before hooking up the BT Junior. It's been charging for a few days now and still hasn't gotten to the 80% (green flashing led) yet. So far the car has started reliably since I hooked up the BT junior, and once I see the green flashing led I'll call this device a success, but until then it's a tentative 4 stars.(Of course to be fair, having let the battery run down to such state may have irreparably damaged it, but I don't really know. All the same, i'm pleased with what the BT Junior is doing so far).Update 12/18/12 After a full 5 days of charging I now have a solid green led, meaning my battery is full and BT Junior is monitoring the charge. I'm definitely happy, no more worrying about the state of my battery if I don't get around to driving my car for months at a time.
+
+

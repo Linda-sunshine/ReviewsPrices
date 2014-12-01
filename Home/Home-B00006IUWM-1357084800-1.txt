@@ -1,0 +1,5 @@
+1357084800
+1.0
+review/summary: Don't use on expensive knivesreview/text: This sharpener is too aggressive. Fortunately I tested it on a cheap knife. I'm not sure what angle the guides are set to, but the "stone" gouges the knife near the hilt (it removed about 1/8" of blade material, after a single pass in the first guide pair).
+
+

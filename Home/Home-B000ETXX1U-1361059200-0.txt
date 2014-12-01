@@ -1,0 +1,5 @@
+1361059200
+1.0
+review/summary: Don't waste your time.review/text: The built in pump would cease working while filling and when releasing air, but worse was the fact that the bed sunk in towards the middle - regardless of how much air was inserted. To stay on either side of the bed, you'd have to hang on to the side. I returned this bed the very next day.
+
+

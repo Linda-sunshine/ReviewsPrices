@@ -1,0 +1,5 @@
+1353888000
+5.0
+review/summary: Fun gadgetreview/text: This is a fun gadget that will let you see how much energy different devices consume. Should help you work on lowering your electricity bills. Would be nice to have some sort of adapter to fit the product to outlets that already have an outlet in use but that would probably add to the cost. I can't vouch for how accurate this is since I have no way to really calibrate it. Things I've checked make sense from a logical standpoint. Also lets you see how much line voltage variation you have in your house circuits. Five stars.
+
+

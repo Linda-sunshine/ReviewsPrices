@@ -1,0 +1,5 @@
+1357430400
+4.0
+review/summary: Works well but susceptible to it own warmthreview/text: I run a 1500W electric radiator with this unit at home. During normal operation this causes the Lux unit to get slightly warm, which is normal, but the stubby flexible temp sensor can't be moved far enough away to prevent it clicking off too soon. I had to recalibrate the sensor which sort of gets around it. Lux: please make the cord for the sensor long enough to sit out of the area where heat rises when a high wattage device is plugged in.Aside from that it has been very dependable and accurate, much more so than any thermostat that comes built into a space heater. Only twice in two years has it locked up, not turning on even though the displayed temp was well below the set point. Manually turning the set point up and back fixed this.
+
+

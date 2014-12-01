@@ -1,0 +1,5 @@
+1359331200
+5.0
+review/summary: Awesome product!review/text: This pedometer is as accurate and as durable as they come! I have been using it on an elliptical machine that counts steps, and I can say that it is consistently within 5 paces of the actual count on the elliptical machine over the course of over 5,000 paces! It's not the cheapest pedometer out there, but if you want accuracy, this is the one to buy! As long as you do your part in accurately programming your pace length, it will also give you accurate mileage distance. The easiest way to verify this is to walk a measured distance (such as a quarter-mile track) and compare the results you get with your initial pace length setup, then adjust your pace length setup until your results match the measured distance. One caution: when the battery runs out the pedometer stops working and you lose your settings, so you have to re-program it when you install the new battery. Therefore, you should either memorize your set pace length or write it down so you can re-set it correctly.
+
+

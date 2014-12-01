@@ -1,0 +1,5 @@
+1358380800
+2.0
+review/summary: Nice looking kettle that works poorlyreview/text: The kettle is very nice looking however extremly noisy when it starts boiling the water and when it reaches its boiling point it does not stop automatically. Either it takes it forever to stop boiling or it does not stop at all and we have to push the little handle manually.
+
+

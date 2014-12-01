@@ -1,0 +1,5 @@
+1349913600
+3.0
+review/summary: Great concept, but execution needs improvementreview/text: This mini dehumidifier is based upon a great concept, but it has a few design flaws.1. The air intake has no filter. This is a problem because dust will eventually coat the cooling unit. There's no easy way to clean it without taking the unit apart.2. The air exhaust is covered by a grill mechanism that significantly restricts the airflow. The grill mechanism almost looks like it would act as a filter, were it on the air intake. It probably also serves to keep dust from settling in the machine when the fan is off. However, because it comes after the cooling mechanism, the only purpose that it serves is to restrict airflow and make the unit work less efficiently. Fortunately, it snaps right off, and when you take it off, the airflow almost doubles, making the unit work much more efficiently.
+
+

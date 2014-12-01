@@ -1,0 +1,5 @@
+1354233600
+1.0
+review/summary: Did not function the first time I needed itreview/text: This product read HH.H error the first time I needed it. I tried to adjust it and the error went away, but it would not maintain a correct reading into lower temperatures.Unless you are making something that can vary by +-30 degrees, I cannot recommend this product.
+
+

@@ -1,0 +1,5 @@
+1355011200
+4.0
+review/summary: WIN100review/text: The only reason that I did not rate this a full 5 stars is because the read out isn't accurate. Maybe there is a calibration I missed. I set the temperature to 72 to control a blower that supplies warm air to a remote room. The unit shuts off when the temperature in the room reaches 72 degrees according to the read out on the unit. The real temperature in the room measured next to the unit is only 66 degrees.
+
+

@@ -1,0 +1,5 @@
+1361491200
+3.0
+review/summary: BREWING -add waterreview/text: One thing that gets us every time is that it says BREWINGand right under it says "add water"So you hit brew and walk away, only to come back to BREWING -add water.How does something this dumb get passed all design checks?Other than that, it's fine. It's a Keurig..
+
+

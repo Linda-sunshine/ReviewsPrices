@@ -1,0 +1,5 @@
+1361232000
+5.0
+review/summary: wonderfulreview/text: This product is awesome. You can set the temp range you want and if you choose from the available timer formats it will shut off at the end of that time while keeping the room/area warm. When the sensors know the air surrounding the heater are in the zone it shuts off until the temp drops.
+
+

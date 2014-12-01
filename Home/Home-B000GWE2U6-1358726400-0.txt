@@ -1,0 +1,5 @@
+1358726400
+1.0
+review/summary: One worked for 6 weeks, another one for 2.review/text: I bought this product after seeing its high rating in Consumer Reports. It worked fine for while, though the output was only half of what is advertised: 1 gallon in 24 hours, instead of 2. I even bought a second one, for the office. This second one stopped working in 2 weeks: more precisely, the fan stopped. The first one stopped working now, after less than 6 weeks.
+
+

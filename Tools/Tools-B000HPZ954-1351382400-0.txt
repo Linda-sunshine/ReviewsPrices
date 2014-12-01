@@ -1,0 +1,5 @@
+1351382400
+1.0
+review/summary: Plug may not fit your setup. Take a closer look at the plugreview/text: I have a big powerline network adaptor plugged into the lower outlet. I intended to use this power strip to plug into the upper outlet. It simply won't fit because of the way the plug worked. Most homes have vertical outlets. And if your lower outlet is already occupied by a bigger adapter, this will not fit. What genius designed this? A more common plug would have worked.
+
+

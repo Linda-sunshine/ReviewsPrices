@@ -1,0 +1,5 @@
+1355702400
+5.0
+review/summary: Works as expectedreview/text: I like this meter. Provides good information on what our daily electronic consumes.I use this mainly to check my solar production coming from my grid tie inverter.
+
+

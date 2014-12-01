@@ -1,0 +1,5 @@
+1351296000
+4.0
+review/summary: Works but prefer the Belkinreview/text: We have a few such devices for use in a repair shop. These are cheaper than the Belkin, but the Belkin has a remote readout which is good for reading devices with hard to access plugs. Imagine trying to read this while under a counter.Also does not measure properly with computer PSUs that have active PFC, but neither does the Belkin.
+
+

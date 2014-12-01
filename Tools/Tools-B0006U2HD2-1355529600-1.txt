@@ -1,0 +1,5 @@
+1355529600
+5.0
+review/summary: Works well, fair pricereview/text: Does a good job, the thermal switch is fairly accurate (+/- 1 degree), I've had it outside in -30 and it worked fine.
+
+

@@ -1,0 +1,5 @@
+1356825600
+5.0
+review/summary: Omron HJ-112 Digital Pocket Pedometerreview/text: This was easy to set and and easy to use. We think it does everything you would want. We haven't measured it's distance accuracy, but we know it is pretty close, and, of course, this dependes upon whether you have entered the correct step distance accurately.
+
+

@@ -1,0 +1,5 @@
+1357430400
+5.0
+review/summary: How to Fix Overflow Problemreview/text: Used in daily service since May 6, 2008. It had an intermittent problem for years that I finally figured out and fixed. If a few grounds get past the filter they clog the tiny margin where the lid screws into the top of the thermal carafe. Cutting a tiny notch in the lid solves the problem. This pot has made fantastic coffee and closing in on 5 years of service - that is hard to beat!
+
+

@@ -1,0 +1,5 @@
+1360540800
+5.0
+review/summary: Perfectreview/text: I took this apart and setup a relay so that when the AC was disconnected it would disconnect the battery. I utilized this inside a pelican case as a self contained charging unit.
+
+

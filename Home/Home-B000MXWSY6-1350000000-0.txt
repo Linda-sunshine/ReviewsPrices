@@ -1,0 +1,5 @@
+1350000000
+5.0
+review/summary: Works Perfectly!review/text: Excellent product and the DST function is wonderful as well! Be sure to read the setup instructions when initially programming the time and keep the instructions in-case you lose power when the backup battery is dead.
+
+

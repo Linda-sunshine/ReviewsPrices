@@ -1,0 +1,5 @@
+1359417600
+2.0
+review/summary: Looks cool, but fails as a clockreview/text: I bought this because it includes a battery backup and it is supposed to be accurately set to the minute (you simply pick the time zone). It also has 2 alarms, which is a nice bonus.But it FAILS as a clock. When I got it, it was 1 minute fast, which I can accept. Then 2 minutes fast, and now, 4 minutes fast. I need to re-scour the users guide to see if/how I can change the minutes setting (so far I've only found hour settings via time zone). No matter how cool the idea, it's reduced greatly in value when it fails in its most basic function.
+
+

@@ -1,0 +1,5 @@
+1360195200
+3.0
+review/summary: Read for a fix for moldy filtersreview/text: The humidifier will automatically shut off when the water level gets too low which is a great idea but it keeps the filter wet all of the time. I tried pulling the filter out and letting it dry in the bath tub during the day but it still just stays wet. When these things stay wet they get moldy very quickly.FIX: My solution has been to trick the humidifier into thinking that the water level is always high enough to run the fan. There is a little white plastic cover over all of the wiring on the inside of the humidifier. On the very bottom of this, where it would touch the water is a little mechanical switch that flips &#34;on&#34; when there is enough water. I was able to unscrew the cover, then the switch and then put a zip-tie around the switch to hold it in the &#34;on&#34; position. I put it all back together and now, in the morning when I go to work, I just take the water tanks off the back and let the fan force dry the filter while I'm gone. Even on low, it's dry by lunch time. Now the filters don't need replaced every couple weeks.
+
+

@@ -1,0 +1,5 @@
+1356652800
+5.0
+review/summary: I rate it on looks and ease of usereview/text: How can a person rate this without a tester or an actual leak? But when using the self contained test it works and I'm sure that by now KIDDE has record of real life use?
+
+

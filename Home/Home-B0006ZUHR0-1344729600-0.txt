@@ -1,0 +1,5 @@
+1344729600
+1.0
+review/summary: Fire Hazardreview/text: Auto-Off feature does not work. Iron remains hot as long as plugged in. Seems very cheaply made; electronics probably have a high failure rate.
+
+

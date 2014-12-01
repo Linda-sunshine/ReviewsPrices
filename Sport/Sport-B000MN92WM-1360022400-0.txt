@@ -1,0 +1,5 @@
+1360022400
+4.0
+review/summary: Pedometer does the job, software could be improved.review/text: The device itself seems to consistently and accurately track my steps and is very easy to use. The software is a bit less satisfactory and explains the loss of one star in this review. While it does record data from the pedometer, it sometimes requires a couple of browser refreshes to get the data imported and displayed. Once on the computer, the displayed charts could be more granular. The same is true of the data export function. It would be nice to have the information for each day exported so it could be imported into a spreadsheet and graphed as the user prefers.
+
+

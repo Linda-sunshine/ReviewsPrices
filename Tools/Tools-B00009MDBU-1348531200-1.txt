@@ -1,0 +1,5 @@
+1348531200
+5.0
+review/summary: Kill A Watt Monitorreview/text: The P4400 is a great little monitor. I needed something to give me an idea of the loads on several critical circuits that I wanted to supply with a small generator. The Kill A Watt filled the bill. I think it has been said before, but the only improvement I would make is to either package it with a short (3ft-6ft) extension cord or offer it as an accessory. Most of the circuits I wanted to monitor needed such an extension to be able to view the LCD screen (like a refrigerator, for example). But I guess that most folks have an adequate extension cord lying around anyway.
+
+

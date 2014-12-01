@@ -1,0 +1,5 @@
+1355184000
+5.0
+review/summary: Pedometerreview/text: Works realy good. Have used on trails I know the distance and it measures correctly. It saves the info each day and then deletes after the seventh day. Does not have a way to reset the steps though without deleting all the settings.
+
+

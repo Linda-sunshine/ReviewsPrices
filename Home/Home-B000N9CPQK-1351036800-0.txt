@@ -1,0 +1,5 @@
+1351036800
+2.0
+review/summary: Works better with HEPA filter removed.review/text: At first this purifier worked ok, but after a while it lost airflow. We have cleaned the HEPA filter good and it still has barely any airflow. We have since removed the HEPA filter and use paper towels instead, that way there is still airflow. I am now looking for another air purifier.
+
+

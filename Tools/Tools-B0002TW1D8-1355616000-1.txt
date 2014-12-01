@@ -1,0 +1,5 @@
+1355616000
+5.0
+review/summary: Use sockets with impact driverreview/text: With these extentions you can use all different size sockets either meteric or SAE with your impact driver giving you the torque to break bolts or nuts loose and easy tightening or removal
+
+

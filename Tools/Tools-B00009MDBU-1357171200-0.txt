@@ -1,0 +1,5 @@
+1357171200
+5.0
+review/summary: An alternative usereview/text: If you have a circuit in your home that you want to monitor for the number of kilowatt hours used over time, this device can be used in an alternative way. If you feel comfortable opening the circuit breaker panel, and slightly modifying the wiring at the breaker for the circuit of interest, then the plug and receptacle method of connecting the P4400 can work to monitor usage. Simply interrupt the circuit of interest by putting a receptacle in before the breaker, and a plug coming from the circuit, right inside the panel box. Then, plug the P4400 into this arrangement as is done with appliances, and monitor your circuit usage over time.I am doing this to monitor how many kilowatt hours of electricity my gas furnace uses over several days. The furnace circuit consists of a gas boiler, a control system, and two pumps.Please, if you are not experienced enough or comfortable modifying the wiring inside your circuit breaker panel box, then don't attempt to do this.
+
+

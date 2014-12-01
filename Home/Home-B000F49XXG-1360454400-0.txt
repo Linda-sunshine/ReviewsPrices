@@ -1,0 +1,5 @@
+1360454400
+2.0
+review/summary: Great for 18 months, now leaks badlyreview/text: This was a great product for about 18 months, then it started leaking - badly. It is not possible to get inside of the machine to figure out what seals are gone, or where the leak is, so the solution is lots of towels. Probably would cost more to repair than replace.
+
+

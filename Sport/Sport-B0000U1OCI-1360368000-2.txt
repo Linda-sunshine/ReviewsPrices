@@ -1,0 +1,5 @@
+1360368000
+3.0
+review/summary: Nice to know how far I walk at work.review/text: Nice to know how far I walk. However, setup wasn't exactly easy and I'm not sure if I calculated my stride correctly.
+
+

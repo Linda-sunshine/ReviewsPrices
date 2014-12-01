@@ -1,0 +1,5 @@
+1359849600
+5.0
+review/summary: Works greatreview/text: Bought this partly because of the law and my own paranoia.Works great. Simple setup, batteries included.An slight annoyance with how it's designed. It's more visually and acoustically stimulating when CO2 is near lethal levels, but during normal standby position, the screen just shows the battery level. I wish the screen would say something reassuring or positive when there is no threat detected as opposed to negative during a threat.
+
+

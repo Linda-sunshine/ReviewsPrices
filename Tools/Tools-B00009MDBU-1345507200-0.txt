@@ -1,0 +1,5 @@
+1345507200
+5.0
+review/summary: Awesome device to save money; had to write my own calculator to help with the mathreview/text: The main reasons I love this device are the price and the fact that it easily pays for itself and more. You will help to identify your energy use, and once you understand your energy use in terms of $$$, you will have the initiative to conserve. Knowing is half the battle!The device is super easy to use -- plug a device in and go. If you are in a tight space, yes, it can be difficult with the shape of the device but an extension cord will fix this.To get the Kill A Watt measurements into device costs, you need to do some calculations. These aren't neccessarily easy to do, and can be time consuming if you are using it often. I put a Kill A Watt calculator on my webpage to help with this since I found myself using this device so much. The calculator will tell you the cost per hour, day month, year and every 50 years. Check it out at: [...]
+
+

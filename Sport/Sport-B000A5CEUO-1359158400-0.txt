@@ -1,0 +1,5 @@
+1359158400
+5.0
+review/summary: Heart rate monitorreview/text: This is a basic and affordable heart rate monitor. Nothing fancy or luxurious; it keeps track of your heart rate accurately and that's its selling point alongside with the economically affordable price. Works perfectly with the treadmill or elliptical trainer and thus far I have not received interference from any kind of electronic device. The only downside is that the heart rate limit alarm does not function, but that's fine because you can just look at the display monitor and adjust your workout intensity accordingly.
+
+

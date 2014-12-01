@@ -1,0 +1,5 @@
+1349481600
+3.0
+review/summary: Omron HJ-112 pedometer, OK but...review/text: This pedometer does only the basics, and for some people that's exactly what they want. It resets the counts, mileage, steps, etc., at midnight of each day. It stores a week's worth of readings for review. What it does, it does quite well, but there is no way to use it in any way not already pre-programmed.After using it for a while I came to miss being able to reset the counts when I wanted so as to use it as a "trip pedometer" and make other changes. Nor is there any way to turn it off to conserve the battery, and it seems to go through batteries fairly quickly. Not awful, but not great, either.Setting it up is not intuitive. All in all, I'm disappointed, but this is partly my own fault. I thought I wanted something absolutely simple and it turned out I wanted more.
+
+

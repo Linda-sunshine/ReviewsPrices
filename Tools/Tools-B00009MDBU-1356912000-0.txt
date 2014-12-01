@@ -1,0 +1,5 @@
+1356912000
+4.0
+review/summary: Great meterreview/text: Works well to measure current power and power from time it is powered on. Just make sure you don't overload it.
+
+

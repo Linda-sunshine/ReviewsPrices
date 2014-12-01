@@ -1,0 +1,5 @@
+1351987200
+1.0
+review/summary: Does not provide Automatic Daylight Savings Time as promisedreview/text: I ordered this clock radio after reviewing many other clocks on this site to fill my needs. What I wanted was an alarm clock that would rely on atomic clock time, would keep fairly accurate time, would be easy to set the alarm, would have a fairly loud alarm, and would be easy to view at night without disturbing our sleep.When I received the clock, I set it to PST following the instructions but noted that the time was always 2 minutes behind. I overlooked that part hoping the automatic function would always keep up the time with a 2-minute delay. Alas, with last night's time change from savings to standard time it did not work at all. I played around with the zone assignments & found that it would keep the same time in the Yukon Time rather then Pacific Time and still with the 2 minute delay. Chatting with Sony support on line indicated that I needed to set it manually for the time changes.The alarm I can barely hear when awake but I was able to see the time at night.Sony ICF-C318 Clock Radio with Dual Alarm (Black)
+
+

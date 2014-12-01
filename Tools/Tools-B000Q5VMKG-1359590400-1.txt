@@ -1,0 +1,5 @@
+1359590400
+4.0
+review/summary: works as it should...review/text: ... I think. It hasn't alerted us though it works when I test it. Reading is always at 0 which I guess is good.
+
+

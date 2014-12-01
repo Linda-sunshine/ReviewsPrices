@@ -1,0 +1,5 @@
+1358380800
+5.0
+review/summary: Good, simple design.review/text: This design largely eliminates having to clean the filter system; you're replacing most of the filter unit every time you replace the cartridge.
+
+

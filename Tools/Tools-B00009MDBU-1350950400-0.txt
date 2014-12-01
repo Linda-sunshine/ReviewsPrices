@@ -1,0 +1,5 @@
+1350950400
+5.0
+review/summary: Great Product!review/text: I recommend having one of these around the house! I use it for different projects. For example, I checked the voltage of an inverter with a digital volt meter. The digital voltmeter had 91 volts. I used this meter and it displayed 120 volts. This product works! If you want the correct voltage for AC equipment, I recommend this meter!
+
+

@@ -1,0 +1,5 @@
+1355875200
+1.0
+review/summary: Omron HR monitorreview/text: The multiple functions are NOT necessary. The so-called heart rate limits are unnecessary, confusiog, and clinically are of no use. Please, just the HR and seconds together.
+
+

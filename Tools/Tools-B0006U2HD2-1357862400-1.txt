@@ -1,0 +1,5 @@
+1357862400
+3.0
+review/summary: Works but not accuratelyreview/text: I've tested it turning on a light in a machine shed. It has been turning the light on/off but I've seen it go as high as 40 in the building before shutting the lamp off. This isn't a big deal for what I'm using it for but if it really needed to go on/off as a specific temp, it might not be a good choice.
+
+

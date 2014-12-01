@@ -1,0 +1,5 @@
+1346112000
+1.0
+review/summary: DVD Does not work.review/text: I have tried for about 2 hours and could not get the DVD to work. The DVD contained two folders with files AUDIO_TS and VIDEO_TS. The Audio TS folder empty, and the video TS folder with VOB files. I am accustom to that file format. However I could not get the DVD to play.
+
+

@@ -1,0 +1,5 @@
+1354924800
+3.0
+review/summary: OK but broke after a yearreview/text: Bought it in september 2011 and it worked fine until now. It draws so much current that it trips the circuit breaker in my room.
+
+

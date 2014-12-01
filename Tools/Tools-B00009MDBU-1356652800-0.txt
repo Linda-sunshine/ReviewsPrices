@@ -1,0 +1,5 @@
+1356652800
+5.0
+review/summary: worksreview/text: nice little power monitor for everyday use, I used it to monitor and estimate my desktops power usage; which was less than I thought. useful little tool told me my laptop runs at 22 watts when under normal load. 30 under full.
+
+

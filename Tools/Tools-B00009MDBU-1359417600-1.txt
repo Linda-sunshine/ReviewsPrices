@@ -1,0 +1,5 @@
+1359417600
+5.0
+review/summary: Does the job.review/text: The P4400 was relatively cheap (around $20), which makes it pretty inexpensive tool, (or toy, depending on your perspective).It does exactly what I expected it to do, which is tell me how much electricity various devices actually use.We found it very useful for sizing a UPS for our computer and peripherals. If you go to the UPS vendor's website, they will size one for you,but it may be quite a bit over-sized. If you don't mind spending more than you have to for a UPS, that may be a good thing.If you are hoping to audit the electric company's meter, forget it. It's not designed for that.The P7700 will tell you how much juice that old refreigerator or TV is using. And That can be eye-opening.At the end of the day, ask yourself if knowing how much electricity a device uses will enable you to save the cost of the monitor.
+
+

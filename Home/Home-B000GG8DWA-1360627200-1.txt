@@ -1,0 +1,5 @@
+1360627200
+4.0
+review/summary: You get what you pay for - decent for pricereview/text: Keep in mind this heater is only 800 watts. Some heaters are 1500. If using 400 watts, only one resistor is used. Two for 800 watts. Better heaters use both resistors at the same time, just less power to each one. Heater is very light, mostly plastic.
+
+

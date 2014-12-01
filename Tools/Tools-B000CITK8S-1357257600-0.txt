@@ -1,0 +1,5 @@
+1357257600
+5.0
+review/summary: Qualityreview/text: It seems to be well made and is actually maintaining a charge on 2 twelve volts at the same time.
+
+

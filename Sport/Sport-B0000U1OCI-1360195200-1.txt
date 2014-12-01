@@ -1,0 +1,5 @@
+1360195200
+3.0
+review/summary: HJ-112 no longer has a reset buttonreview/text: I had an Omron pedometer which counted steps more accurately than any other pedometer I have owned. Its display died so I bought a new one. Unfortunately the current model no longer has a reset button. The distance walked only resets to zero at the end of the day, so you can not measure the length of a specific walk. I find it very disturbing that a company would greatly diminish the usefulness of a great product just to save the cost of one button.
+
+

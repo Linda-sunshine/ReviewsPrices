@@ -1,0 +1,5 @@
+1358726400
+3.0
+review/summary: It works wellreview/text: The filter works well, but it doesn't filter everything. The water still doesn't taste great, but it is definitely better than regular tap water.
+
+

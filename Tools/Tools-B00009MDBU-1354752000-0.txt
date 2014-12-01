@@ -1,0 +1,5 @@
+1354752000
+5.0
+review/summary: Great Productreview/text: It takes the mystery out of the cost of electricity on most electrical appliances and devices.First, find out the cost for your electricity service (per Kilowatt / hour) -- check your bill.Plug the Kill-A-Watt into the wall outlet and plug the device you want to monitor into the Kill-A-Watt. Let it run for a while to collect the data, then multiply the measured KWH by the rate from your service and you have the total cost to run this device for the measured time period.Note that the Kill-A-Watt is limited to devices that use 120V 15A service. This includes most appliances in the home with the notable exceptions of electric clothes dryers and electric ranges.
+
+

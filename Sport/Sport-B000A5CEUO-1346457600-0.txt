@@ -1,0 +1,5 @@
+1346457600
+4.0
+review/summary: Omron hear rate monitorreview/text: This is my second Omron heart rate monitor. The first one lost the red button that allows you to select the heart rate monitor from the default time display, making the unit inoperable. This is not a robust unit.The chest strap stretches over time and is uncomfortable to wear.As with any inexpensive monitor, heart rate variations will occur especially when the chest strap is broadcasting to a machine instead of the wrist watch. I became alarmed at the heart rate variations and underwent an expensive monitoring evaluation before realizing it was the monitor's malfunction so beware and do not over react as I did as a physician.
+
+

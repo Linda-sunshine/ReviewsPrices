@@ -1,0 +1,5 @@
+1354924800
+2.0
+review/summary: Auto-off does not workreview/text: This kettle will not automatically shut off when the water is boiling, and there is a leak under the switch.
+
+

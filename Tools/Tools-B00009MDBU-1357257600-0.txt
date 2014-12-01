@@ -1,0 +1,5 @@
+1357257600
+4.0
+review/summary: Does its job, construction could be a bit better.review/text: Like it says on the box, it'll measure the power consumption of the device connected through it. However, it has some finicky bits. I'd tend to use it on devices plugged way back into the wall and the un-backlit LCD gets tricky to read. A backlight would make this a much nicer gizmo.
+
+

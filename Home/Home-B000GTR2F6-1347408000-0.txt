@@ -1,0 +1,5 @@
+1347408000
+1.0
+review/summary: Unit failed in 26 daysreview/text: Started out nicely, but on the 26th day of ownership the B70 developed this problem:After brewing a K-Cup, the unit does not suck in water and after it times out, the blue 'low water level' light flashes, even though the reservoir is nearly full. This can be cleared only by unplugging the B70 so that it reboots, but that wipes out all programming. This has to be done after each cup.We returned it for a refund and went back to our 3-year old Keurig.
+
+

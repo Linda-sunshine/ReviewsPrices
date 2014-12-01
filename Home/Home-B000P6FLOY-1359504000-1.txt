@@ -1,0 +1,5 @@
+1359504000
+1.0
+review/summary: 7 degrees offreview/text: I ordered this assuming it may have a 1-2 degree margin of error, but I didn't expect it to read 6-8 degrees low. It did seem consistant at this; I used 150 F water to test the Polder against 2 alcohol thermometers, and the Polder read a consistant 6-8 degrees cooler, even as the water cooled down to 120. I wish it had a calibration ability.
+
+

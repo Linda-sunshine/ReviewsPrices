@@ -1,0 +1,5 @@
+1352851200
+1.0
+review/summary: defectivereview/text: Alarm won't sound when tested. Had a friend look at it and he confirmed that it was defective. He suggested that I stick with Kidde, not First Alert.
+
+

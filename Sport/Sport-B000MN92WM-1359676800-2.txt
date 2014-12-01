@@ -1,0 +1,5 @@
+1359676800
+1.0
+review/summary: missing batteryreview/text: can't say how it works as there was no battery in the box. List of included items states battery, but I checked the package completely and no battery.
+
+

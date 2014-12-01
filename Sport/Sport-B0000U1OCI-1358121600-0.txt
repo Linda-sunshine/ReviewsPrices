@@ -1,0 +1,5 @@
+1358121600
+1.0
+review/summary: Does not countreview/text: This device failed to count the steps reliably despite making the documented setup steps. I ended up returning it and buying a Fit-Bit
+
+

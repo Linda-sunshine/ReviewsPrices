@@ -1,0 +1,5 @@
+1349654400
+3.0
+review/summary: Decentreview/text: The scale looks nice and seems to report the weight fairly accurately but the major problem is if you try to weigh yourself twice (for example, with and without clothes) it will show the same weight, even if the difference should be several pounds. For example, if I weigh myself right out of the show and then again after putting on sweatpaints and a sweatshirt (~2lbs), it will show the same weight unless I wait about 15 min.
+
+

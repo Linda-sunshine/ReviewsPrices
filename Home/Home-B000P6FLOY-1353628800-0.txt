@@ -1,0 +1,5 @@
+1353628800
+1.0
+review/summary: Highly inaccurate! I threw it away.review/text: I decided to use this for the first time on my Thanksgiving turkey. I first tested it by dipping the tip in boiling water, and it read fairly accurately at 210 F, similar to my instant-read thermometer. But in the turkey thigh in the oven (oven temperature 400 F), it read 175 F and I removed the turkey from the oven. Checking the same thigh with my instant-read, I got a reading of 125 F; 50 degrees different! I got similar result with the breast meat. The turkey was obviously not fully cooked, though the Polder indicated it was. I suspect that it allows heat from the hot oven to influence the reading, rather than having the temperature measuring component well-isolated at just the tip. Adios, Poldar - highly disappointing!
+
+

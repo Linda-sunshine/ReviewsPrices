@@ -1,0 +1,5 @@
+1359072000
+5.0
+review/summary: work perfect and usablereview/text: This is a nice little meter. It measures Volts, Amps, PowerFactor, Watts, VA, KWH and Elapsed Time in use.The results are immediate.
+
+

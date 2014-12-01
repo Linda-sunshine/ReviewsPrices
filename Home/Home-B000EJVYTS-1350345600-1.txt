@@ -1,0 +1,5 @@
+1350345600
+4.0
+review/summary: No problemsreview/text: This product has performed as expected so far. The previous version stopped working due to an equipment failure. It did last for about 5 years.
+
+

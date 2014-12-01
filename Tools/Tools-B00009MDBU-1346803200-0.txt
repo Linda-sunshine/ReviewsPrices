@@ -1,0 +1,5 @@
+1346803200
+5.0
+review/summary: Kill a Wattreview/text: The Kill a Watt unit works very well. I am happy with it. I am using it to monitor wattage usage on a home built battery bank with dc to ac inverter. I was surprised to find that one of my room fans was the largest energy user, close to 100 watts.
+
+

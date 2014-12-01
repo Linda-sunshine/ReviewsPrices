@@ -1,0 +1,5 @@
+1350172800
+2.0
+review/summary: Great little thermostat.... When it doesn't get stuck!review/text: Set this sucker up in the attic to control a heat exhaust fan (about a 100 watt turbine 740CFM fan motor). Running an extension cord to a regular power outlet, everything worked great for a week or two. Now, the thing gets "stuck" at night and refuses to turn off until I climb up and manually override the temperature setting up or down and then it suddenly realizes "oh, its no longer 80 degrees" and shuts off. Very annoying. Would be great if it worked 100% of the time. Since Im over my 30 days return policy time I'll probably just buy a cheap timer to plug it into; that will only allow it to have juice between 7am-9pm or something like that; that way if its still running at 9pm (when I KNOW for a fact that attic has dropped to the outside temperature) then it will have a failsafe to shut it off in the event it decides it wants to run all night.As it works - 2 starsIf it worked all the time - 4 starsGood luck with yours.
+
+

@@ -1,0 +1,5 @@
+1355270400
+5.0
+review/summary: Kill A Wattreview/text: This is great if you want to see how much power your devices are consuming. I used it to see what size inverter I should buy to run my things. Now I mainly keep it monitoring my desktop computer. I wish it retained info on power loss but this is only a minor issue.
+
+

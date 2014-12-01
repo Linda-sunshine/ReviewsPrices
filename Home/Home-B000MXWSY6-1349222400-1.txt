@@ -1,0 +1,5 @@
+1349222400
+1.0
+review/summary: Runs fastreview/text: We have had 2 of these clocks for about 4 years, in two different rooms. They consistently run fast. I can't seem to keep them (a) synchronized with each other, or (b) synchronized with my iPhone, which I know is correct. Everything else works fine, but it's annoying to have to double-check the time in two different rooms.
+
+

@@ -1,0 +1,5 @@
+1352937600
+5.0
+review/summary: Best 20 bucks I've spentreview/text: I bought this monitor to adjust the frequency output of my Onan generator. Since then, I find myself grabbing it to check out voltages, amperages, and frequencies of differing devices. I most recently bought a small 300 watt inverter to recharge our cell phones and laptop from my ES5000 jumper pack in case of an extended power failure. After plugging in the inverter, I plugged in my KILL A WATT and then tested various devices to be sure everything was working properly. This monitor does what it advertises and more. It costs a tenth of the cost of my FLUKE multi-tester and is so convenient that you might want to order several and just leave them plugged in to monitor your electrical usage (especially if your running off grid on a battery powered inverter)
+
+

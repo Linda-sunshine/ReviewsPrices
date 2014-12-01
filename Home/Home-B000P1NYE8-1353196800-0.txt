@@ -1,0 +1,5 @@
+1353196800
+1.0
+review/summary: Avoid this scalereview/text: This scale is extremely unreliable. It would constantly give me different readings on the same item that I was weighing. Even after calibrating it, Its readings were inaccurate. I would reccomend an AWS scale.
+
+

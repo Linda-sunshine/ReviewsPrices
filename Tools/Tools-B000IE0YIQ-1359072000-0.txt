@@ -1,0 +1,5 @@
+1359072000
+1.0
+review/summary: when internal fuse blows out the AirStation has to be returnedreview/text: B&D; AirStation has a non user-serviceable fuse (soldered to the internal circuit board) which seems to regularly blow out for many customers (including me). I returned mine for refund. Note that the 12v input uses a separate circuit, so if your fuse blows you may still be able to make use of the AirStation with the 12v plug in your car.Hopefully in a future model B&D; would:1.) add a circuit breaker on this unit's panel in place of the internal fuse2.) make the one or both of of the air hose and the 120v cord slightly longer3.) design the storage for the 12v cord such that it doesn't obstruct use of the switchUntil then, I recommend buying a manual floor pump instead, else spend a little more and buy a small industrial air compressor.
+
+

@@ -1,0 +1,5 @@
+1360540800
+2.0
+review/summary: Not liked itreview/text: I just bought it but it is not calculating steps sometime and also it is very hard to know how many calories burned, it shows in kcal that doesn't tell exactly how many calories burned.Also, it must be perpendicular to ground, if it is less than 60' and more than 120'(degrees) it will not calculate steps.
+
+

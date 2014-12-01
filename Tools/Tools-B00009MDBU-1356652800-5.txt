@@ -1,0 +1,5 @@
+1356652800
+4.0
+review/summary: Great device, fundamentally limitedreview/text: It's a great device for seeing how much power something draws, but it is fundamentally limited by having to be plugged in between the source and the draw for the power. I'm not sure if it's possible to accurately measure wattage through a clip-on type of meter, however. The screen is decent, but sometimes hard to read far off-angle or in very poor light, like if I'm measuring the power of something behind an electronics cabinet.
+
+

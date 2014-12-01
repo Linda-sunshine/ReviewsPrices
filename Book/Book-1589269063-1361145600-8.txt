@@ -1,0 +1,5 @@
+1361145600
+1.0
+review/summary: Poorly formatted ebook!review/text: While the contents are worthy (remains to be seen if they can save our marriage), the e-book formatting is very poor. The font is fixed, and cannot be changed.(Technical detail - The CSS specifies the font for every segment as 'Times New Roman', but the Kindle instead substitutes a slab-serif semi-egyptienne font that frankly looks awful.)
+
+

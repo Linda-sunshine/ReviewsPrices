@@ -1,0 +1,5 @@
+1354492800
+3.0
+review/summary: Works okay, but....review/text: flow is slow at best and filter seems to clog relatively quickly, especially if there have been water outages or other disturbances in water flow. While each cartridge should last two months, the last one only managed five weeks before flow became so miniscule it had to be replaced.
+
+

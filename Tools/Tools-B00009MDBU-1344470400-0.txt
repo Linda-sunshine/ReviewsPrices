@@ -1,0 +1,5 @@
+1344470400
+5.0
+review/summary: So happy with this purchasereview/text: This is the best $20 that I have spent in a while. It's incredibly helpful and has many features that were only available on more expensive units in the past. It does a lot, but here's what's most important:-Realtime Wattage Measurement - Displays instantaneous power consumption. Like a "speedometer" for power usage. Great for measuring power (WATTS) of appliances whose power consumption remains constant - like a fan or a light.-Cumulative Wattage Measurement - Tracks total Killowatt Hours (KWH) over time, since being plugged in or since last reset. Like an "odometer" for power usage. This is great for measuring appliances like refrigerators or computers, whose power consumption goes up and down during the day.It's easy, and it's fun to use. It's nice to know exactly what the efficiency is of certain appliances, and what I've found has surprised me. There aren't many products that I would recommend to just about everyone. But this is one of them.
+
+

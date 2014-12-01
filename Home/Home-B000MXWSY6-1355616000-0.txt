@@ -1,0 +1,5 @@
+1355616000
+2.0
+review/summary: Poor radio reception/low alarm volumereview/text: The radio is difficult to accurately tune, and the reception is poor. The buzzer alarm volume is low and probably wouldn't wake up someone who was in a deep sleep. The alarm volume for the radio coincided with the volume set for the radio, so if you set the sleep function with the volume low enough to fall asleep by, it is not really loud enough to rely on for an alarm.
+
+

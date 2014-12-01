@@ -1,0 +1,5 @@
+1355356800
+3.0
+review/summary: Taylor 7506 Scalereview/text: Scale occasionally reads incorrect weight.Tippy. Often tips down as I get off the scale, so glass touches the floor
+
+

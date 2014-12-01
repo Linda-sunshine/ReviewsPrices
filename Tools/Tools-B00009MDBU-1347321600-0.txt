@@ -1,0 +1,5 @@
+1347321600
+5.0
+review/summary: Works well, just don't push the loadreview/text: Tells you everything you need to know about a circuit: Volts, Frequency, Load factor, amps, watts, volt*amps (NOT the same as watts for an AC circuit), cumulative watts and time on stream.One caution - it is rated for 15 amps. That is fine for short periods of time, but I wouldn't use it continuously over about 8 amps - it tends to melt. I learned that the hard way, this is my second one of these, third meter overall. If I need another I will buy another one of these.
+
+

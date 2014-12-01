@@ -1,0 +1,5 @@
+1359504000
+1.0
+review/summary: basically unusablereview/text: The LED display is backlit in a bright neon blue, and doesn't provide enough contrast with the digital display, making it impossible to read the numbers beyond a couple a feet away. The backlit display also acts as an undesirable nightlight. We're now using it only as a sound machine, because the clock portion is worthless.
+
+

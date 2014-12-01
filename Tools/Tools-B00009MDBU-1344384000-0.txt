@@ -1,0 +1,5 @@
+1344384000
+4.0
+review/summary: I'm very pleasedreview/text: This meter works well. As the other reviews indicate you will want to use an extension cord, so you can position the device in an easy to read location. The screen has no back-light, however I found it very easy to read. It is also easy to use. Just plug it in and start pressing buttons and reading the screen. Each button toggles between display options, Volts, Amps, Watts, VA, kWh etc. It starts metering as soon as you plug it in, and accumulates kWh until unplugged, at which point it resets. The first thing I did, was to plug it into the electric toaster. This was fun, watching the current drawn change as the heating elements warmed up increasing their resistance.Amazon sells another, slightly more expensive, product that lets you enter dollars per kWh, so it can display the results in dollars and cents. I chose to go with this more economical product, and I'm glad I did. I reasoned that if I can find the will to plug a cord into a wall, then I'll also be able to summon the courage to multiply two numbers together. This device works well at a very competitive price.
+
+

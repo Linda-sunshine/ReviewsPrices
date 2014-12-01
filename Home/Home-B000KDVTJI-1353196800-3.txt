@@ -1,0 +1,5 @@
+1353196800
+1.0
+review/summary: Dangerousreview/text: Ours has a flaw in which the pot does not turnoff once the water starts to boil, even after 10 min. Could start a fire if you are not careful. Ours is going back.
+
+

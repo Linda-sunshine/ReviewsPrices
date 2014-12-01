@@ -1,0 +1,5 @@
+1356566400
+4.0
+review/summary: Nice little thermostatreview/text: This allows you to plug in a little portable heater and have some very fine control on thermostat settings. I guess I could ding it a little as the thermostat is consistently measuring three degrees high but as it is consistent, you can easily learn to work around it.
+
+

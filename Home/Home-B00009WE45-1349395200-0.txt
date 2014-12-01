@@ -1,0 +1,5 @@
+1349395200
+4.0
+review/summary: Works goodreview/text: Works good and tested against other quality devices and is off by about a tenth. That is acceptable for me.
+
+

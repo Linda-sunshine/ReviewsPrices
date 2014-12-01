@@ -1,0 +1,5 @@
+1358812800
+5.0
+review/summary: Excellentreview/text: This works well for keeping a charge on two batteries. I added a timer and it cycles the power on and off to keep a fresh charge
+
+

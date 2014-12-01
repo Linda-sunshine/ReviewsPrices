@@ -1,0 +1,5 @@
+1358467200
+4.0
+review/summary: Working great!review/text: This unit is working pretty good and efficient.Safety feature built in to auto shut down the power when done.
+
+

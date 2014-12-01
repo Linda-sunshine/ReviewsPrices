@@ -1,0 +1,5 @@
+1344556800
+1.0
+review/summary: These filters are super buggyreview/text: Every time you pick a size, the colors available for that size do no show up. If you pick the color you want and then pick the size, the color goes to the default color, not even indicating if the size and color combo is available.Frustrating !
+
+

@@ -1,0 +1,5 @@
+1356134400
+4.0
+review/summary: Nice little toolreview/text: It does what it says it does but pull out your calculator so you can put the data in context. My two immediate uses were to determine how much more my Plasma TV consumed power versus my LCD and LED TVs. Although my lasma is a great TV the new LCD/LEDs now rival it and use less energy to boot. The other immediate use was to determine the level of Backup UPS I needed to support my desktop, display, cable modem, router, and cordless phone. Getting the data I needed for this was within minutes. Very nice tool!I would give it 5 stars if it incorporated a simple calculation given the answers to a couple of questions ( hours / day of use and $/kwh). Of course, you can leave this device hooked up to a appliance for days, monthsm etc. and get the first one your self but why wait :-).
+
+

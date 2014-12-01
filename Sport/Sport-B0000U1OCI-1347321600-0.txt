@@ -1,0 +1,5 @@
+1347321600
+5.0
+review/summary: Great little devicereview/text: I carry the Omron HJ-112 pedometer in my pocket every day. It's small, quiet, and easy to read. Once you input your stride length it will count your steps, aerobic steps, calories and miles walked. I have checked the mileage against the GPS on my cell phone and found it to be less than 1/10th of a mile off on a four mile walk.
+
+

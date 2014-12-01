@@ -1,0 +1,5 @@
+1355961600
+5.0
+review/summary: Nice little toolkit!review/text: This is a great little toolkit for working on laptops, phones, tablets, and other very small electronics. It feels well built, the only thing I wouldn't trust it for is desktop computer screws which can be a poor fit to the small screwdrivers but those usually fit a standard screwdriver anyway.
+
+

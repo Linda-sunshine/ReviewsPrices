@@ -1,0 +1,5 @@
+1359072000
+4.0
+review/summary: Flexible but complicatedreview/text: Seems to work great, many features. but you'll get a headache reading the directions to use. That said, my application is abnormal, controlling a pancake fan to prevent overheating our wine fridge and keggerator, so it's embedded in a panel in an enclosed space. Probably did not need a product this sophisticated.
+
+

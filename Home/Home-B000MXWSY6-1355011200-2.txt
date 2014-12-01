@@ -1,0 +1,5 @@
+1355011200
+2.0
+review/summary: poorly designedreview/text: Buttons and switches are too close together and opposing actions are juxtaposed, so that you end up hitting the wrong buttons.
+
+

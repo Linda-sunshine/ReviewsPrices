@@ -1,0 +1,5 @@
+1356393600
+1.0
+review/summary: Failed before 12 hours of operationreview/text: The Kill A Watt P4400 ceased to function before 12 hours of continous operation @ 10.3 amps. Screen went blank. Won't even pass electricity through the outlet. In this design it appears that all of the power is passing through the electronics - not a passive failure. I recommend that P3 consider a redesign using a shunted or inductive circuit so that power is not interupted even when the electronics fail. Fortunately, nothing perishable was being serviced by the Kill A Watt. Lesson learned.The product return was very easy through Amazon.
+
+

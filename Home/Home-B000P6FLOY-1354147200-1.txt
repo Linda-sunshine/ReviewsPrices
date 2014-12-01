@@ -1,0 +1,5 @@
+1354147200
+1.0
+review/summary: probe failed after 5 usesreview/text: This thing was marvelous until it failed! Ordered it on 26 October 2012. The probe was not abused in any way, but just failed to register any logical temperature on our expensive organic free-range turkey for Thanksgiving. It was way underdone!I just need a probe thermometer that works for a year or more. Is that too much to ask?
+
+

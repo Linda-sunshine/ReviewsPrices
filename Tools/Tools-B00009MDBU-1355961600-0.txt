@@ -1,0 +1,5 @@
+1355961600
+5.0
+review/summary: Interesting Toolreview/text: I've had my eye on one of these for a while and finally just got one.It does smell strongly of electronics. Doesn't really bother me. I ran it to a max of almost 200W on a computer, haven't had any issues with it so far. It does have a limit of 125V, 15A, 1875VA.As pictures and reviews show, you may want an extension cord or power strip, because it will cover more than one outlet.It measures: Voltage and frequency of outlet. Current, power (W), apparent power (VA), and power factor from the the draw of what is plugged in. Accumulates kWh, shows timer of how long it has been measuring this in minutes and hours.I found that my transformers don't really draw much when not on (&#60;0.1W, display shows 0.0W). A monitor in standby or a suspended laptop can use a few watts, which will add up eventually.The more expensive 4460 or 4480 models have more features but did not seem worth it to me.
+
+

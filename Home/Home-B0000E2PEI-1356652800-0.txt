@@ -1,0 +1,5 @@
+1356652800
+3.0
+review/summary: Not as precise as it pretends to bereview/text: There's a decimal place there, and the readings are in units of tenths of pounds (or kilograms), but that last digit is faked. The first time you step on it it thinks for a moment and gives you a reading. Step off and step on again and it will immediately give you the same reading. Step off and wait a few minutes before stepping on again and it will think for a moment and give you a different number that can be the better part of a pound away.If you pretend that tenths digit isn't there it's a perfectly decent scale, and I certainly don't imagine there are any better ones in this price range. I just object to giving them programming tricks to make people think the precision is greater than it really is.
+
+

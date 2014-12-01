@@ -1,0 +1,5 @@
+1355443200
+5.0
+review/summary: thermal outletreview/text: I have not tested the outlet to see if it does turn off in warmer temps but hope it works
+
+

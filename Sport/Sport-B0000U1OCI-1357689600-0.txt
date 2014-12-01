@@ -1,0 +1,5 @@
+1357689600
+4.0
+review/summary: Pedometer works wellreview/text: Seems reliable so far as the number of steps go.Battery seems to go quickly (same for my wife's device)I like putting it in my pocket.
+
+

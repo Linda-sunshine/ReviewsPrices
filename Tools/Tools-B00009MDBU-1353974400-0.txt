@@ -1,0 +1,5 @@
+1353974400
+5.0
+review/summary: Must have diagnostic toolreview/text: This has to be the best bang for your buck electrical diagnostic tool. This thing will tell you volts, amps, watts, power factor, and frequency along with giving total kWh consumed. I plugged this into my fridge for a couple days to see what the average kWh/day consumed was. It is also good for checking generator output to make sure frequency hasn't drifted.
+
+

@@ -1,0 +1,5 @@
+1355011200
+5.0
+review/summary: Better than my previous thermometerreview/text: This is a replacement for an older thermometer. I like the improved probe, which is what failed on the other. It's easy to use and I rely on it for correct cooking times.
+
+

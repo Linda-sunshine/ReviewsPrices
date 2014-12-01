@@ -1,0 +1,5 @@
+1361059200
+5.0
+review/summary: Used in wine making -- Fills the billreview/text: Consistent and repeatable temperature measurements. Within a fraction of a degree of other trusted temperature measurement devices. I'm happy to be within +/- 1 degree. If you need better, I can't vouch for that.
+
+

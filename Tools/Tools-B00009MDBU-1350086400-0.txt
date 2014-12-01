@@ -1,0 +1,5 @@
+1350086400
+5.0
+review/summary: Amazing what draws electricityreview/text: I have been using this product for four years now (bought Oct 10 2008) and have been amazed at how much electricity different devices used or don't use. I have saved a lot of money by using this device. I can figure out which devices are using vampire power, and switch them to surge protectors. The biggest savings came when I calculated my internet connection (ISP router + switch for home network + wireless router) was costing me $5+ a month to operate based on how much electricity it was using when idle. I installed a wall switch to control an outlet where those devices were connected to so that they are only on when we are home. I turn the "internet" off when we go to bed or work, saving a lot of money. I did the same with our TV and DVD player and use the Kill A Watt to check out any new device I get including phone chargers, etc.
+
+

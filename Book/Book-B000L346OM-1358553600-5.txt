@@ -1,0 +1,5 @@
+1358553600
+4.0
+review/summary: Typos distract from an excellent bookreview/text: Excellent book, but there are inexplicable typos-- the word difficult displays as diffcult, and there's another repeated misspelling. Hard to understand when a search and replace in an electronic file could fix it.
+
+

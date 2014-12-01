@@ -1,0 +1,5 @@
+1358467200
+3.0
+review/summary: don't like cold coffeereview/text: This coffee maker does not keep coffee hot very long. The thermal carafe does not retain temperture even if you fill with hot water before brewing.
+
+

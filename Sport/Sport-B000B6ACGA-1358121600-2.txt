@@ -1,0 +1,5 @@
+1358121600
+5.0
+review/summary: Card shuffler speeds up game playing.review/text: I can not shuffle cards. This machine works great. Cards do not get bent as they do when manually shuffled.
+
+

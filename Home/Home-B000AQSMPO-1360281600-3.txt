@@ -1,0 +1,5 @@
+1360281600
+3.0
+review/summary: Design Defectivereview/text: The B60 Keurig does a good job when it works. However, they tend (read about the problem in internet reviews) to have pumping system failures that cause the unit to lose its prime. There are a number of fixes suggested, none of which seem to be permanent. The problem is a design defect created when Keurig tried to make the pump motor quieter and only managed to undersize it for its intended task. If you're lucky, the problem will occur during your warranty and Keurig will replace it. Otherwise, be prepared to frequently unplug and restart the unit, specially after you add water. It does make good coffee and the wide variety of available K cups is a plus. Hopefully, this problem will be fixed in future models.
+
+

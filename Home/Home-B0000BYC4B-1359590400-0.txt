@@ -1,0 +1,5 @@
+1359590400
+2.0
+review/summary: not tight enoughreview/text: didnt fit onto my jars securely enough, they were leaking.I guess I will have to find another way to store my fresh juice.
+
+

@@ -1,0 +1,5 @@
+1356652800
+4.0
+review/summary: Nice, simple devicereview/text: They could be improved by a memory so the info was preserved after a power outage. Otherwise, this is good for understanding your usage.
+
+

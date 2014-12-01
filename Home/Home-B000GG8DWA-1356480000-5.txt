@@ -1,0 +1,5 @@
+1356480000
+2.0
+review/summary: the one glitchreview/text: This is for the folks on which the unit just quit. I had the same experience, but when I took the thing apart I found that one of the wires was faulty. With a bit of confidence it is easy to cut the bad wire out and replace it with a new one- a few bucks all told. Testing can be done with the unit UNPLUGGED, using a 'continuity' tester or a DIY tester using the wire in question connecting a flashlight battery to its light bulb, taping the wires in place. The repair required a single conductor wire with standard insulation coating. Make sure the amp rating is for 15 amps or better. The wire can be spliced on or soldered. It does in fact mysteriously quit working when this problem occurs, but otherwise this is a great unit for the price and power. I echo the other high star reviews.
+
+

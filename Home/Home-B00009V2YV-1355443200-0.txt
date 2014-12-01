@@ -1,0 +1,5 @@
+1355443200
+2.0
+review/summary: Battery life very poor; does not signal when storms in areareview/text: Probably an operator error, but can't figure out how to set it up properly and then test it if there are no storms in the area; the batteries seem to drain in 24 hours even when plugged into AC outlet; again could be operator error
+
+

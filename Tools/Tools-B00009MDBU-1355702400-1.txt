@@ -1,0 +1,5 @@
+1355702400
+5.0
+review/summary: so usefulreview/text: I was amazed by some of the findings. My kill-a-watt has helped my friends and me learn about which electronics to put on kill-switches and which ones don't draw standby power. It helped one friend convince his wife that their freezer is a huge, wasteful draw.
+
+

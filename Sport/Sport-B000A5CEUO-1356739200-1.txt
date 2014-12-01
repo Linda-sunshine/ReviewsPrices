@@ -1,0 +1,5 @@
+1356739200
+1.0
+review/summary: inaccuratereview/text: This product does not record my heart rate accurately, and it is uncomfortable. It displayed a heart rate 20 to 30 beats per min. less than what it actually was. Additionally, two of them cannot be used in the same room at the same time as they are the same frequency and get confused reading eachother's heart rates.
+
+

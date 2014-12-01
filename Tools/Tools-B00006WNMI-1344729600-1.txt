@@ -1,0 +1,5 @@
+1344729600
+3.0
+review/summary: Don't know it's working or notreview/text: I don't know this filter is working or not, I test it with a TDS(Total Dissolved Solids) reader, both came out the result of 183ppm(new filter), so with or without the filter is the same, maybe it did reduce the odor, but no apparent it reduce other impurities
+
+

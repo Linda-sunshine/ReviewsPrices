@@ -1,0 +1,5 @@
+1346889600
+2.0
+review/summary: okay - not greatreview/text: It works, but seems to have a "delayed reaction" in that it takes several seconds for the monitor to reflect increases or decreases in heart rate.Also - - I failed to realize there is only a visual alarm (not a sound alarm) to indicate the heart rate is above the set limit.
+
+

@@ -1,0 +1,5 @@
+1355961600
+3.0
+review/summary: works as describedreview/text: this item used to press the cofffee down in the filter, the only problem is that you dont know if you pressed to hard or not hard enough
+
+

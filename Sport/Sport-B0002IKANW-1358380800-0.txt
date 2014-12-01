@@ -1,0 +1,5 @@
+1358380800
+1.0
+review/summary: Dimensions DO NOT meet 9mm standardsreview/text: These dummy rounds do not match the same dimensions as a typical 9x19mm round. The angle above the base of the shell is at a much shallower angle. This causes two problems in my Glock 26. First, the loaded indicator does not project far enough out to show that it is loaded. Obviously, not critical for dummy rounds, but for training purposes, that's a problem. Second, and a bigger problem, is the action does not slide all the way forward smoothly when loading. You either have to release the action further back and let the spring close it harder, or you have to smack the back of the gun to close it. I haven't tried them in a different gun yet.
+
+

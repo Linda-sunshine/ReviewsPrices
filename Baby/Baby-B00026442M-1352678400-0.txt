@@ -1,0 +1,5 @@
+1352678400
+2.0
+review/summary: It leaksreview/text: We used Swaddlers size 1 and thought would changed to this for size 2 to see what's the difference. We found that this one leaks! It also has a little chemical smell and the size isn't as big as Swaddlers size 2. Pamper Swaddlers is much better in our opinion.
+
+

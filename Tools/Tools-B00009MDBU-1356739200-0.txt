@@ -1,0 +1,5 @@
+1356739200
+5.0
+review/summary: KILL A WATT P4400review/text: This is a nice addition to my collection of test equipment.I'm plugging all kinds of stuff into it to find out how much powerthings are actually consuming regardless of what the labels may claim.Sometimes I'm pleasantly surprised that a device is using less thanit's rating, Other times annoyed to find out that something I've beenusing for years has been consuming much more than it's rating.I keep my KILL A WATT plugged into a 15 amp power strip whichprovides a short extension cord and avoids the problem of trying toplug it directly into a wall outlet which are rarely conveniently located.
+
+

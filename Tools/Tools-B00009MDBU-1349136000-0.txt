@@ -1,0 +1,5 @@
+1349136000
+5.0
+review/summary: Very simple and easy to use.review/text: It works as I expected. This is very simple and easy to use.However, if you are not familiar with the electricity, this could be hard to use. You should understand volt, watt, and watt hour. And in order to know what you want to know, in some cases, you need a little calculation.
+
+

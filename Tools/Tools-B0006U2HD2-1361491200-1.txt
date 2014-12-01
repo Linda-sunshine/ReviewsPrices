@@ -1,0 +1,5 @@
+1361491200
+5.0
+review/summary: Makes life easierreview/text: It works well to turn on a heater as the temps. drop below freezing and then back off as the temp. rises.
+
+

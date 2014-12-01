@@ -1,0 +1,5 @@
+1347062400
+2.0
+review/summary: Not working after first usereview/text: After bringing it to home. It worked only one time properly. But after that it is not taking the Dirty water in Tank.
+
+

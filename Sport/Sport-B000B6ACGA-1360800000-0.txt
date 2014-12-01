@@ -1,0 +1,5 @@
+1360800000
+3.0
+review/summary: Card Shufflerreview/text: Well I thought that this shuffler would work good when playing with 5 or 6 decks of cards. When playing with 2,3, or 4 decks it works great, but when playing with 5 or 6 decks the card receiver has a problem holding that many cards.
+
+

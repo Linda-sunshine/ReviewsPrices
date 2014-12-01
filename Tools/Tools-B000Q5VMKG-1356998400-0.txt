@@ -1,0 +1,5 @@
+1356998400
+1.0
+review/summary: First Alert CO alarm NO / Kidde CO alarm YESreview/text: This FIRST ALERT CO alarm (and presumably others by the same maker)DOES NOT register readings under 30ppm, in terms of the digital highest readings shown.It simply ignores them ....even though that might have shown a potential CO problem brewing.And you don't discover this point until you read the instructions.HOWEVER- the KIDDE CO Alarms DO measure peak readings below 30ppm...which is why I consider Kidde CO alarms to be a much better buy.I have both...and I am sorry that I purchased the First Alert CO alarm.
+
+

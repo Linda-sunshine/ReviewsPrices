@@ -1,0 +1,5 @@
+1355270400
+3.0
+review/summary: not what I was expectingreview/text: The items arrived in time and without any damage. Overall the unit is ok with one major issue. The unit won't stop running unless I set it to the lowest humidity setting. I have another product (different brand) which works great, stops when humidity level is reached, so there is something in the humidity detection/sensor of this product that doesn't work as expected.
+
+

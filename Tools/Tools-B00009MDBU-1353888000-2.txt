@@ -1,0 +1,5 @@
+1353888000
+5.0
+review/summary: Great Fun for Penny Pinchers and Geeksreview/text: In addition to determining the wattage that your appliances draw, this meter has both frequency and voltage measurement functions that are very useful in adjusting the speed of your emergency generator during those times that the street power is off and you need to run appliances from your generator. Improper frequency and too high or low voltage can harm appliances. With these two functions, you can adjust the generator's speed under load as close to 60Hz and 120 volts as possible.
+
+

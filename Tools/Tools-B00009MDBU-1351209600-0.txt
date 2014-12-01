@@ -1,0 +1,5 @@
+1351209600
+5.0
+review/summary: This thing is greatreview/text: I don't know anything about the precision of instruments like this, but it has enough features and information that I'm able to do what I want. It gives me a good readout on my PC's power draw, so I'm happy.
+
+

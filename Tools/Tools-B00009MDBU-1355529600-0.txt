@@ -1,0 +1,5 @@
+1355529600
+5.0
+review/summary: This thing is awesomereview/text: It's really interesting finding out how much energy you use per device and this thing does that exactly. One especially good one is to check standby/leakage current. Some devices still use electricity even though it's off (TV is the obvious one, since it is technically on enough to &#34;listen&#34; for your remote&#34;) and by knowing which ones are the big ones, you could potentially save some money by unplugging them when not in use. Obviously, this only works for devices that you don't use often.One thing I don't like about it is that it doesn't have a small back-up battery to maintain your readings, so as soon as you unplug it, all the information is gone, which is a small inconvenience if your outlet's aren't in a good place or if they are upside down like at my house. Also, I'd prefer a bit more precision in terms of the kWh, but that's only if you care and know about electricity.
+
+

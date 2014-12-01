@@ -1,0 +1,5 @@
+1354924800
+5.0
+review/summary: nice gadgetreview/text: I bought this so I could track which of my electronics were sucking the most power down when they were sitting idle and also which were just too inefficient and needed replacement. I have been able to see how much energy the LED lights draw against the incandescent bulbs as well. I'm very happy with the meter.
+
+

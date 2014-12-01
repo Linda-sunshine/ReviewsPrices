@@ -1,0 +1,5 @@
+1359676800
+5.0
+review/summary: Works greatreview/text: I used command hooks instead of the included screws, works fine since the weight limit isn't high enough to pull the hooks off the wall. (Plus I can move it up the wall as baby gets taller)
+
+

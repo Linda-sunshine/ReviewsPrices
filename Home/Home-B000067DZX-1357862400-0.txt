@@ -1,0 +1,5 @@
+1357862400
+4.0
+review/summary: No effectiveness gaugereview/text: The stickers that go on the pitcher are handy for letting you know when you last changed the filter, but a means of determining the filter's effectiveness would be a better way of knowing when to change the filter.
+
+

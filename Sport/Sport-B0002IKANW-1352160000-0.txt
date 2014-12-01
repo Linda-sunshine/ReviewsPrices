@@ -1,0 +1,5 @@
+1352160000
+3.0
+review/summary: It's Okreview/text: I use these for dry firing and simulating failure to fire (FTF). It works, but can sometimes jam when attempting to cycle a round. So not totally to 9mm Luger spec, but works for intended purpose.
+
+

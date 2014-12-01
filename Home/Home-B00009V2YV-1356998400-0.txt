@@ -1,0 +1,5 @@
+1356998400
+4.0
+review/summary: weather alertreview/text: Overall, I like this unit. However, it is not always clear enough to fully understand everything being said. The alarm does get you attention.
+
+

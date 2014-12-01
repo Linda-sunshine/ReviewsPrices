@@ -1,0 +1,5 @@
+1359590400
+3.0
+review/summary: small plugreview/text: Works like it should, draw back is the plug seems to small, takes a lot of force. Don't see it surviving to many plug in's.
+
+

@@ -1,0 +1,5 @@
+1358121600
+3.0
+review/summary: not work on 220vreview/text: if u want to make it work on 220v you have to buy an external voltage converter which cost me 40 $
+
+

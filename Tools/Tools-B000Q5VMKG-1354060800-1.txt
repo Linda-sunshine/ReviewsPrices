@@ -1,0 +1,5 @@
+1354060800
+1.0
+review/summary: Broken low battery indicator; batteries very hard to removereview/text: The detector arrived with a broken low battery detector. Both the batteries it shipped with and a pair of brand new batteries (fresh from the package with an expiration date of 2022) caused the low battery detector chime to sound. Also, the batteries are *very* hard to replace--you have to press very, very hard at just the right angle for them to pop out of the housing. Very frustrating and disappointing for what I hoped would be an easy to use product.
+
+

@@ -1,0 +1,5 @@
+1352332800
+1.0
+review/summary: brushes won't spin after a few usesreview/text: The brushes won't spin after a few uses, I've cleaned the screen and tried troubleshooting as recommended online to no avail. It's useless now. The cleaning was subpar when it did work 'properly'
+
+

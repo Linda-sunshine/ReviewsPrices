@@ -1,0 +1,5 @@
+1352592000
+4.0
+review/summary: Not the most fun $30review/text: This device is pretty standard, you plug it into the wall and if there's too much CO, it should alarm.I was expecting the digital display to show a real-time CO level in the room. I thought that would be kind of cool. However, the digital display is blank unless the alarm goes off, in which case it will tell you how much CO is being detected (so you know how severe the CO concentration is, whether you should totally evacuate the house or if you can just open a couple windows).Otherwise it seems like a pretty standard detector.
+
+
