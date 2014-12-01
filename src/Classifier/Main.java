@@ -37,7 +37,7 @@ public class Main {
 		//String providedCV = "Features.txt"; //Provided CV.
 		
 		String featureSelection = "DF"; //Feature selection method.
-		double startProb = 0.4; // Used in feature selection, the starting point of the features.
+		double startProb = 0.6; // Used in feature selection, the starting point of the features.
 		double endProb = 0.85; // Used in feature selection, the ending point of the feature.
 		System.out.println("Feature Seleciton: " + featureSelection + "\tStarting probability: " + startProb + "\tEnding probability:" + endProb);
 		System.out.println("*******************************************************************************************************************");
