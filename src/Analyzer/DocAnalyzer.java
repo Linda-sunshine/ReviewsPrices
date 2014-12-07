@@ -139,7 +139,7 @@ public class DocAnalyzer extends Analyzer {
 		if(m_stemmer.stem())
 			return m_stemmer.getCurrent();
 		else
-			return m_stemmer.getCurrent();
+			return token;
 	}
 	
 	//Given a long string, tokenize it, normalie it and stem it, return back the string array.

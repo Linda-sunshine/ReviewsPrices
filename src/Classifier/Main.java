@@ -15,7 +15,7 @@ public class Main {
 		int classNumber = 5; //Define the number of classes in this Naive Bayes.
 		int Ngram = 1; //The default value is unigram. 
 		String featureValue = "TF"; //The way of calculating the feature value, which can also be tfidf, BM25
-		String classifier = "LR"; //Which classifier to use.
+		String classifier = "SVM"; //Which classifier to use.
 		
 		System.out.println("*******************************************************************************************************************");
 		System.out.println("Parameters of this run:" + "\nClassNumber: " + classNumber + "\tNgram: " + Ngram + "\tFeatureValue: " + featureValue + "\tClassifier: " + classifier);
@@ -113,7 +113,7 @@ public class Main {
 			myLR.crossValidation(10, corpus, classNumber);//Use the movie reviews for testing the codes.
 		} else if(classifier.equals("SVM")){
 			//corpus.save2File("data/FVs/fvector.dat");
-			double C = 3;// The default value is 1.
+			double C = 1;// The default value is 1.
 			System.out.println("Start SVM, wait...");
 			SVM mySVM = new SVM(corpus, classNumber, featureSize, C);
 			mySVM.crossValidation(5, corpus, classNumber);
